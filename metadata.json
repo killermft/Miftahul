@@ -1,0 +1,6 @@
+{
+  "name": "PayMitra",
+  "description": "UPI Super Fast Payment application with futuristic premium design, secure transactions, and AI spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
